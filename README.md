@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is Riyaz and I am a final year undergrad student.
 
 <!--
 **riyaz2022/riyaz2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
