@@ -9,6 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/RiyazSh26090787" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/riyaz-shaikh-0604bb227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/riyu2022/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="" height="30" width="40" /></a>
+  
 
 
 <!--
