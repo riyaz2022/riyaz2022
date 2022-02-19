@@ -1,5 +1,10 @@
 ### Hi there 👋 My Name is Riyaz and I am a final year undergrad student.
 
+
+- 🔭 I’m currently working on Web development projects using MERN stack.
+- 🌱 I’m currently Grinding Leetcode and learning development frameworks in python(Django and FastAPI).
+- 🤔 I’m looking to contribute in open source projects.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RiyazSh26090787" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -11,8 +16,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Web development projects using MERN stack
+- 🌱 I’m currently learning Django and FastAPI FrameWorks to enhance my skills 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
