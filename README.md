@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Riyaz and I am a final year undergrad student.
+### Hi there 👋 My Name is Riyaz and I am a software engineer.
 
 
 - 🔭 I’m currently working on Web development projects using MERN stack.
